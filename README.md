@@ -34,6 +34,6 @@ Field measurements conducted in the Taiwan Strait, including phytoplankton prima
 
 # /scripts
 figurexx.R - generates figure xx\
-tablexx.R - generates table xx\
+tablexx.R - generates table xx
 
 
