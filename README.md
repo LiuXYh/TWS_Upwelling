@@ -1,8 +1,8 @@
 Data and analysis codes of the manuscript **"Liu Y, et al. 2026. Linking phytoplankton-derived dissolved and particulate carbon production to bacterial metabolism across physical dynamics in a subtropical marginal sea, Journal of Geophysical Research: Oceans, 131(6), e2026JC024071, doi:10.1029/2026JC024071"**.
 
-**/data summary:**\
+# /data summary:
 
-# TWS_data.csv
+**TWS_data.csv**
 Field measurements conducted in the Taiwan Strait, including phytoplankton primary production, bacterial metabolism, and associated environmental parameters, were obtained from sampling stations across seven cruises carried out from 2006 to 2022.
 - **No**: Sampling station number
 - **Longitude**: Geographic longitude (°E)
@@ -32,7 +32,7 @@ Field measurements conducted in the Taiwan Strait, including phytoplankton prima
 - **BCD**: Depth-averaged bacterial carbon demand, calculated as BP + BR (mg C m⁻³ d⁻¹)
 - **BGE**: Bacterial growth efficiency, calculated as BP/BCD
 
-**/scripts summary:**\
+# /scripts summary:
 figurexx.R - generates figure xx\
 tablexx.R - generates table xx\
 
